@@ -1,0 +1,2 @@
+# www.xiaoda.games
+Static
